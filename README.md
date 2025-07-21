@@ -11,3 +11,9 @@ This sample database was exported directly from MS SQL to Oracle database 19c. I
 -2. Use Oracle SQL Developer. Open, inspect and execute to create the objects
 -3. All the procedures return ref_cursors, adjust your application accordingly or change the procedure for your preferred returned values.
 
+# Date: 21.07.2024
+
+Two SQL files added, one for Oracle database 19c and the other one for 11G
+## Instructions
+
+-1. Users with 11G or 12c/18c database should use the NorthWind11G.dmp for importing the schema.
